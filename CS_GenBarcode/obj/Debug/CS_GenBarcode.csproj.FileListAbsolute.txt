@@ -1,0 +1,19 @@
+D:\Project\QMB\CS_GenBarcode\CS_GenBarcode\bin\Debug\CS_GenBarcode.exe.config
+D:\Project\QMB\CS_GenBarcode\CS_GenBarcode\bin\Debug\CS_GenBarcode.exe
+D:\Project\QMB\CS_GenBarcode\CS_GenBarcode\bin\Debug\CS_GenBarcode.pdb
+D:\Project\QMB\CS_GenBarcode\CS_GenBarcode\obj\Debug\CS_GenBarcode.Form1.resources
+D:\Project\QMB\CS_GenBarcode\CS_GenBarcode\obj\Debug\CS_GenBarcode.Properties.Resources.resources
+D:\Project\QMB\CS_GenBarcode\CS_GenBarcode\obj\Debug\CS_GenBarcode.csproj.GenerateResource.Cache
+D:\Project\QMB\CS_GenBarcode\CS_GenBarcode\obj\Debug\CS_GenBarcode.exe
+D:\Project\QMB\CS_GenBarcode\CS_GenBarcode\obj\Debug\CS_GenBarcode.pdb
+D:\Project\QMB\CS_GenBarcode\CS_GenBarcode\bin\Debug\Zen.Barcode.Core.dll
+D:\CHAI\Program\New Develop\CS_GenBarcode\CS_GenBarcode\bin\Debug\CS_GenBarcode.exe.config
+D:\CHAI\Program\New Develop\CS_GenBarcode\CS_GenBarcode\obj\Debug\CS_GenBarcode.exe
+D:\CHAI\Program\New Develop\CS_GenBarcode\CS_GenBarcode\obj\Debug\CS_GenBarcode.pdb
+D:\CHAI\Program\New Develop\CS_GenBarcode\CS_GenBarcode\bin\Debug\CS_GenBarcode.exe
+D:\CHAI\Program\New Develop\CS_GenBarcode\CS_GenBarcode\bin\Debug\CS_GenBarcode.pdb
+D:\CHAI\Program\New Develop\CS_GenBarcode\CS_GenBarcode\bin\Debug\Zen.Barcode.Core.dll
+D:\CHAI\Program\New Develop\CS_GenBarcode\CS_GenBarcode\obj\Debug\CS_GenBarcode.csprojResolveAssemblyReference.cache
+D:\CHAI\Program\New Develop\CS_GenBarcode\CS_GenBarcode\obj\Debug\CS_GenBarcode.Form1.resources
+D:\CHAI\Program\New Develop\CS_GenBarcode\CS_GenBarcode\obj\Debug\CS_GenBarcode.Properties.Resources.resources
+D:\CHAI\Program\New Develop\CS_GenBarcode\CS_GenBarcode\obj\Debug\CS_GenBarcode.csproj.GenerateResource.Cache
